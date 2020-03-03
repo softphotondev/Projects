@@ -1,0 +1,70 @@
+ERROR - 2020-02-11 21:33:46 --> 404 Page Not Found: js
+ERROR - 2020-02-11 21:33:46 --> 404 Page Not Found: js
+ERROR - 2020-02-11 21:42:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 21:42:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 21:44:01 --> Severity: Notice --> Undefined offset: 10 E:\xampp\htdocs\zgc-beta\application\views\theme\steps\task.php 47
+ERROR - 2020-02-11 21:44:02 --> Severity: Notice --> Undefined offset: 12 E:\xampp\htdocs\zgc-beta\application\views\theme\steps\task.php 47
+ERROR - 2020-02-11 21:57:31 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\steps\support.php 66
+ERROR - 2020-02-11 21:57:31 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\steps\support.php 66
+ERROR - 2020-02-11 21:57:31 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\steps\support.php 66
+ERROR - 2020-02-11 21:58:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 21:58:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 21:59:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 21:59:17 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:07:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:08:40 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:08:40 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:09:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:09:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:10:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:10:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:11:06 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:11:06 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:14:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:14:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:15:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:15:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:17:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:17:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:30:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:32:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:32:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:32:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:41:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:41:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:41:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:52:56 --> Severity: Notice --> Undefined variable: _ReQUEST E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 384
+ERROR - 2020-02-11 22:52:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:52:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:53:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:53:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:54:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 22:54:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:11:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:11:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:11:57 --> 404 Page Not Found: support.php
+ERROR - 2020-02-11 23:30:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:30:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:30:11 --> 404 Page Not Found: support_select.php
+ERROR - 2020-02-11 23:31:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:31:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:31:39 --> 404 Page Not Found: support_select.php
+ERROR - 2020-02-11 23:33:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:33:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:35:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:35:11 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:36:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:36:54 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:38:17 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:38:17 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:39:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:39:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:49:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:49:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:50:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:50:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:52:17 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:52:17 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:58:11 --> Severity: Notice --> Undefined index: employee_id E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 467
+ERROR - 2020-02-11 23:58:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-11 23:58:13 --> 404 Page Not Found: assets

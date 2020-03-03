@@ -1,0 +1,51 @@
+ERROR - 2020-02-18 14:45:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 14:45:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:01:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:01:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:06:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:06:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:10:31 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 16:10:31 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 18:04:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 18:04:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:40:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:40:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:48:56 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:48:56 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:49:01 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:49:01 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:49:01 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:49:01 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:49:01 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:49:21 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:49:21 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:49:21 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:49:21 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:49:21 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:50:35 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:50:35 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:50:35 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:50:35 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:50:35 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:52:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:52:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-18 23:52:19 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:52:19 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:52:19 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:52:19 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:52:19 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:53:09 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:53:09 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:53:09 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:53:09 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:53:09 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:53:46 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:53:46 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:53:46 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:53:46 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:53:46 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-18 23:55:20 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-18 23:55:20 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-18 23:55:20 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-18 23:55:20 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-18 23:55:20 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16

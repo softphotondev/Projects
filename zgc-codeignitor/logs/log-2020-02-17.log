@@ -1,0 +1,87 @@
+ERROR - 2020-02-17 20:10:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 20:10:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:39:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'focusfico_master'@'49.36.158.190' (using password: YES) E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-17 21:39:28 --> Unable to connect to the database
+ERROR - 2020-02-17 21:39:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'focusfico_master'@'49.36.158.190' (using password: YES) E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-17 21:39:32 --> Unable to connect to the database
+ERROR - 2020-02-17 21:40:02 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'focusfico_master'@'49.36.158.190' (using password: YES) E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-17 21:40:02 --> Unable to connect to the database
+ERROR - 2020-02-17 21:41:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:41:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:43:22 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:43:22 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:47:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:47:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:47:46 --> Severity: error --> Exception: syntax error, unexpected '<', expecting end of file E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 58
+ERROR - 2020-02-17 21:48:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:48:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:48:40 --> Severity: error --> Exception: syntax error, unexpected '<', expecting end of file E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 58
+ERROR - 2020-02-17 21:49:21 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:49:21 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:52:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:52:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:52:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:53:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:53:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:54:21 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:54:21 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:56:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:56:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:59:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 21:59:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:01:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:04:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:04:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:04:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:06:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:08:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:08:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:09:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:09:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:10:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:10:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:11:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:11:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:13:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:13:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:14:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:14:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:32:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:32:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:41:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:41:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:45:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:45:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:45:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:45:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:51:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:51:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:52:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:52:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:53:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:53:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:54:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:56:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 22:56:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:01:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:01:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:04:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:04:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:09:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:09:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:13:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:13:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:14:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:14:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:16:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:16:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:18:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:18:31 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:23:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:23:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:24:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:24:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:25:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:25:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:30:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-17 23:30:34 --> 404 Page Not Found: assets

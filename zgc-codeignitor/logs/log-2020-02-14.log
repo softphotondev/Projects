@@ -1,0 +1,163 @@
+ERROR - 2020-02-14 00:26:44 --> Severity: Notice --> Undefined variable: users E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 187
+ERROR - 2020-02-14 00:26:44 --> Severity: Notice --> Undefined variable: support_depart E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 00:26:44 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 00:28:39 --> Severity: Notice --> Undefined variable: users E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 187
+ERROR - 2020-02-14 00:28:39 --> Severity: Notice --> Undefined variable: support_depart E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 00:28:39 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 00:30:49 --> Severity: Notice --> Undefined variable: users E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 187
+ERROR - 2020-02-14 00:30:49 --> Severity: Notice --> Undefined variable: support_depart E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 00:30:49 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\funder\task.php 216
+ERROR - 2020-02-14 16:26:50 --> 404 Page Not Found: Admin/anewpage
+ERROR - 2020-02-14 16:27:03 --> 404 Page Not Found: Order/anewpage
+ERROR - 2020-02-14 16:58:42 --> 404 Page Not Found: js
+ERROR - 2020-02-14 16:58:42 --> 404 Page Not Found: js
+ERROR - 2020-02-14 17:03:36 --> 404 Page Not Found: js
+ERROR - 2020-02-14 17:03:36 --> 404 Page Not Found: js
+ERROR - 2020-02-14 17:11:37 --> 404 Page Not Found: js
+ERROR - 2020-02-14 17:11:37 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:08:58 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:08:59 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:10:13 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:10:13 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:11:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:11:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:13:50 --> Severity: Notice --> Undefined variable: support_status_output E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 412
+ERROR - 2020-02-14 20:13:50 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:13:51 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:23:35 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:23:35 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:24:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:24:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:24:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:26:26 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:26:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:26:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:26:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:27:15 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:27:16 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:29:48 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:29:49 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:31:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:31:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:31:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:34:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:34:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:34:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:36:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:39:41 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:21 --> Severity: Warning --> session_start(): Failed to read session data: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-14 20:40:41 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:40:42 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:44:15 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:44:16 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:46:06 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:46:06 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:46:29 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:46:29 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:46:29 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:47:33 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:47:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:47:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:47:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:48:04 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:48:05 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:48:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:48:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:48:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:51:26 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:51:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:51:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:51:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:53:11 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:53:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:53:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:53:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:54:40 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:54:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:54:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:54:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:56:19 --> 404 Page Not Found: js
+ERROR - 2020-02-14 20:58:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:58:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 20:58:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:00:52 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:01:55 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:01:55 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:02:00 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:02:00 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:02:00 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:02:49 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:03:12 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:03:12 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:03:56 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:03:56 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:10:46 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:10:47 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:21:45 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:21:45 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:34:21 --> Severity: Notice --> Undefined variable: totalsale E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 215
+ERROR - 2020-02-14 21:34:21 --> Severity: Notice --> Undefined variable: totalorders E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 237
+ERROR - 2020-02-14 21:34:21 --> Severity: Notice --> Undefined variable: activeclients E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 260
+ERROR - 2020-02-14 21:34:21 --> Severity: Notice --> Undefined variable: totalbrokers E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 283
+ERROR - 2020-02-14 21:34:24 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:34:25 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:35:33 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:35:34 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:36:36 --> Severity: Notice --> Undefined variable: support_status_output E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 523
+ERROR - 2020-02-14 21:36:36 --> Severity: Notice --> Undefined variable: ticket E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 557
+ERROR - 2020-02-14 21:36:36 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:36:36 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:38:26 --> Severity: Notice --> Undefined variable: support_status_output E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 523
+ERROR - 2020-02-14 21:38:26 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:38:27 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:39:35 --> Severity: Notice --> Undefined variable: totalsale E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 215
+ERROR - 2020-02-14 21:39:35 --> Severity: Notice --> Undefined variable: totalorders E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 237
+ERROR - 2020-02-14 21:39:35 --> Severity: Notice --> Undefined variable: activeclients E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 260
+ERROR - 2020-02-14 21:39:35 --> Severity: Notice --> Undefined variable: totalbrokers E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 283
+ERROR - 2020-02-14 21:39:38 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:39:39 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:40:44 --> Severity: Notice --> Undefined variable: totalsale E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 215
+ERROR - 2020-02-14 21:40:44 --> Severity: Notice --> Undefined variable: totalorders E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 237
+ERROR - 2020-02-14 21:40:44 --> Severity: Notice --> Undefined variable: activeclients E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 260
+ERROR - 2020-02-14 21:40:44 --> Severity: Notice --> Undefined variable: totalbrokers E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 283
+ERROR - 2020-02-14 21:40:47 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:40:48 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:41:40 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:41:41 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:42:16 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:42:17 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:43:43 --> Severity: Notice --> Undefined variable: support_count E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 529
+ERROR - 2020-02-14 21:43:43 --> Severity: Notice --> Undefined variable: support_count E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 529
+ERROR - 2020-02-14 21:43:43 --> Severity: Notice --> Undefined variable: support_count E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 529
+ERROR - 2020-02-14 21:43:43 --> Severity: Notice --> Undefined variable: support_count E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 529
+ERROR - 2020-02-14 21:43:43 --> Severity: Notice --> Undefined variable: support_count E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\dashboard.php 529
+ERROR - 2020-02-14 21:43:44 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:43:45 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:54:42 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:54:42 --> 404 Page Not Found: js
+ERROR - 2020-02-14 21:55:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:55:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:55:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-14 21:56:50 --> 404 Page Not Found: js
+ERROR - 2020-02-14 22:37:17 --> 404 Page Not Found: js
+ERROR - 2020-02-14 22:37:17 --> 404 Page Not Found: js
+ERROR - 2020-02-14 23:42:55 --> 404 Page Not Found: js

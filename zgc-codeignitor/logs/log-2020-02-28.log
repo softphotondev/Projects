@@ -1,0 +1,175 @@
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:14:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:16:30 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:16:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:16:31 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:16:37 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:16:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:16:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:17:36 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:20:32 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:20:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:20:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:20:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:20:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:25:59 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:25:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:25:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:25:59 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:26:00 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:26:00 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:28:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:44 --> 404 Page Not Found: js
+ERROR - 2020-02-28 17:29:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 17:29:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: js
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: js
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:55:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: js
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: js
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 18:56:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 20:10:12 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:10:13 --> Severity: Notice --> Trying to get property 'num_added' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:10:13 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:10:13 --> Severity: Notice --> Trying to get property 'sum_price' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:11:33 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:11:33 --> Severity: Notice --> Trying to get property 'num_added' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:11:33 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:11:33 --> Severity: Notice --> Trying to get property 'sum_price' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:12:18 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:12:18 --> Severity: Notice --> Trying to get property 'num_added' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 240
+ERROR - 2020-02-28 20:12:18 --> Severity: Notice --> Trying to get property 'array' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:12:18 --> Severity: Notice --> Trying to get property 'sum_price' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\order_detail_vertical.php 241
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: js
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: js
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 20:49:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:20:47 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:46:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:46:05 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:46:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:46:06 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:46:06 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:46:06 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:54:36 --> Query error: Unknown column 'support_ticket_reply_id' in 'order clause' - Invalid query: SELECT *
+FROM `tickets`
+ORDER BY `support_ticket_reply_id` DESC
+ LIMIT 5
+ERROR - 2020-02-28 22:54:36 --> Severity: error --> Exception: Call to a member function result() on boolean E:\xampp\htdocs\zgc-beta\application\models\Myaccount_model.php 415
+ERROR - 2020-02-28 22:54:49 --> Query error: Unknown column 'support_ticket_reply_id' in 'order clause' - Invalid query: SELECT *
+FROM `tickets`
+ORDER BY `support_ticket_reply_id` DESC
+ LIMIT 5
+ERROR - 2020-02-28 22:54:49 --> Severity: error --> Exception: Call to a member function result() on boolean E:\xampp\htdocs\zgc-beta\application\models\Myaccount_model.php 415
+ERROR - 2020-02-28 22:55:17 --> Query error: Unknown column 'support_ticket_reply_id' in 'order clause' - Invalid query: SELECT *
+FROM `tickets`
+ORDER BY `support_ticket_reply_id` DESC
+ LIMIT 5
+ERROR - 2020-02-28 22:55:17 --> Severity: error --> Exception: Call to a member function result() on boolean E:\xampp\htdocs\zgc-beta\application\models\Myaccount_model.php 415
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:56:51 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:58:43 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:58:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:58:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:58:43 --> 404 Page Not Found: js
+ERROR - 2020-02-28 22:58:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 22:58:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:05:37 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:05:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:05:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:05:38 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:05:38 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:05:38 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:06:19 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:06:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:06:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:06:20 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:06:20 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:06:20 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:18:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:19:07 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:19:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:19:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:19:07 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:19:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:19:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:23:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:31:48 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:31:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:31:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:31:49 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:31:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:31:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:39:01 --> Severity: error --> Exception: Call to undefined method Myaccount_model::getTotalNotification() E:\xampp\htdocs\zgc-beta\application\controllers\Admin.php 37
+ERROR - 2020-02-28 23:39:14 --> Severity: error --> Exception: Call to undefined method Myaccount_model::getTotalNotification() E:\xampp\htdocs\zgc-beta\application\controllers\Admin.php 37
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:41:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:44:24 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:44:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:44:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:44:25 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:44:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:44:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:52:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:53:02 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: js
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: assets
+ERROR - 2020-02-28 23:56:40 --> 404 Page Not Found: assets

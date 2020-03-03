@@ -1,0 +1,288 @@
+ERROR - 2020-02-19 00:03:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 00:03:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 00:04:32 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-19 00:04:32 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-19 00:04:32 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-19 00:04:32 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-19 00:04:32 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-19 00:04:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 00:04:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 00:04:58 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-19 00:04:58 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-19 00:04:58 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-19 00:04:58 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-19 00:04:58 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-19 00:07:33 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-19 00:07:33 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-19 00:07:33 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-19 00:07:33 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-19 00:07:33 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-19 00:08:14 --> Severity: Notice --> Trying to get property 'support_ticket_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 4
+ERROR - 2020-02-19 00:08:14 --> Severity: Notice --> Trying to get property 'status_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 12
+ERROR - 2020-02-19 00:08:14 --> Severity: Notice --> Trying to get property 'subject' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 13
+ERROR - 2020-02-19 00:08:14 --> Severity: Notice --> Trying to get property 'priority_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 15
+ERROR - 2020-02-19 00:08:14 --> Severity: Notice --> Trying to get property 'department_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\support_reply.php 16
+ERROR - 2020-02-19 13:29:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:29:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:38:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:38:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:42:22 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:42:22 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:53:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 13:53:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:00:42 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:00:42 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:04:01 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:04:01 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:06:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:06:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:06:57 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:06:57 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:08:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:08:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:09:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:09:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:10:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:10:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:11:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:11:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:12:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:12:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:13:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:13:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:17:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:17:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:21:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:21:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:23:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:23:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:27:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 14:27:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:53:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:53:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:57:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:57:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:59:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 15:59:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:00:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:00:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:02:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:02:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:08:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:08:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:09:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:09:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:11:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:11:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:13:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:13:39 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:17:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:17:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:23:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:23:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:26:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:26:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:33:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:33:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:35:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:35:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:41:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:41:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:44:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:44:04 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:44:16 --> Severity: error --> Exception: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' E:\xampp\htdocs\zgc-beta\application\models\Support_model.php 38
+ERROR - 2020-02-19 16:44:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:44:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:47:42 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:47:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:48:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:48:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:54:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 16:54:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 17:16:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 17:16:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 17:17:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 17:17:44 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 18:26:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:26:56 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:00 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:01 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:01 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:06 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-19 18:27:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:10 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-19 18:27:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:11 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-19 18:27:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:11 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-19 18:27:22 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:22 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:32 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: E:\xampp\tmp) E:\xampp\htdocs\zgc-beta\system\libraries\Session\Session.php 143
+ERROR - 2020-02-19 18:27:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ E:\xampp\htdocs\zgc-beta\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-02-19 18:27:42 --> Unable to connect to the database
+ERROR - 2020-02-19 18:27:42 --> Query error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ - Invalid query: SELECT *
+FROM `category`
+WHERE `status` = 1
+ORDER BY `sort_no` ASC
+ERROR - 2020-02-19 18:27:42 --> Severity: error --> Exception: Call to a member function result() on boolean E:\xampp\htdocs\zgc-beta\application\helpers\comman_helper.php 155
+ERROR - 2020-02-19 18:30:51 --> 404 Page Not Found: js
+ERROR - 2020-02-19 18:30:51 --> 404 Page Not Found: js
+ERROR - 2020-02-19 18:50:38 --> 404 Page Not Found: js
+ERROR - 2020-02-19 18:50:38 --> 404 Page Not Found: js
+ERROR - 2020-02-19 19:43:01 --> Severity: Notice --> Undefined variable: ordersupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 19:43:03 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 19:43:03 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:23:25 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:23:25 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:23:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:23:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:26:00 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:26:00 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:26:10 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:26:10 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:26:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:26:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:30:57 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:30:57 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:30:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:30:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:33:05 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:33:05 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:33:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:33:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:35:50 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:35:50 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:35:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:35:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:45:10 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:45:10 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:45:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:45:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:46:16 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:46:16 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:46:33 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:46:33 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:47:32 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 20:47:32 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:47:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:47:34 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:47:49 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:47:49 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:48:02 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:48:02 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:48:08 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:48:08 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:49:46 --> Severity: Notice --> Undefined variable: orderlistsupport E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:49:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:49:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:49:54 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:49:54 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:50:00 --> Severity: Notice --> Undefined property: Tickets::$support_model E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:50:00 --> Severity: error --> Exception: Call to a member function getSupportById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Tickets.php 219
+ERROR - 2020-02-19 20:55:54 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:04 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:13 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:22 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:31 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:40 --> Severity: Notice --> Undefined variable: ordernumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:56:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:56:43 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:59:52 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 20:59:54 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 20:59:54 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:00:26 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 21:00:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:00:28 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:01:17 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 21:01:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:01:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:03:00 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 21:03:00 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 21:03:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:03:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:05:29 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 21:05:29 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 21:05:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:05:31 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:24:09 --> 404 Page Not Found: uploads
+ERROR - 2020-02-19 21:30:03 --> 404 Page Not Found: uploads
+ERROR - 2020-02-19 21:30:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 21:30:13 --> 404 Page Not Found: uploads
+ERROR - 2020-02-19 21:30:14 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 22:44:44 --> 404 Page Not Found: uploads
+ERROR - 2020-02-19 22:44:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 22:45:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 22:48:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 22:55:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 22:59:48 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:02:56 --> 404 Page Not Found: productdetail
+ERROR - 2020-02-19 23:03:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:03:19 --> 404 Page Not Found: productdetail
+ERROR - 2020-02-19 23:04:19 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:04:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:05:21 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:33:25 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:33:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:33:27 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:36:33 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:36:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:36:35 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:37:14 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:37:14 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:37:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:37:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:38:53 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:38:53 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:38:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:38:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:40:05 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:40:05 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:40:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:40:07 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:40:27 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:40:27 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:40:29 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:40:29 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:40:48 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:40:48 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:40:57 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:40:57 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:41:07 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:41:07 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:41:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:41:09 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:43:39 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:43:39 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:43:42 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:43:42 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:46:51 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:46:51 --> Severity: Notice --> Undefined variable: progcategoryid E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:46:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:46:53 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:50:22 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:50:22 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:50:31 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:50:31 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:50:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:50:33 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:53:04 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-19 23:53:04 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-19 23:53:06 --> 404 Page Not Found: assets
+ERROR - 2020-02-19 23:53:06 --> 404 Page Not Found: assets

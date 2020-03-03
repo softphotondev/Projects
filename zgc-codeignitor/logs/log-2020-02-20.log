@@ -1,0 +1,140 @@
+ERROR - 2020-02-20 00:00:16 --> Severity: Notice --> Undefined variable: query E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:00:16 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:00:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:00:18 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:02:45 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:02:45 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:02:55 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:02:55 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:03:04 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:03:04 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:03:13 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:03:13 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:03:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:03:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:08:44 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 336
+ERROR - 2020-02-20 00:08:44 --> Severity: Notice --> Undefined variable: ordersnumberlist E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\support.php 340
+ERROR - 2020-02-20 00:08:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:08:46 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:23:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:23:52 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:26:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:26:25 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:26:31 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:26:31 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:26:31 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:26:31 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:28:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:28:30 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:28:34 --> Severity: error --> Exception: syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:29:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:29:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:32:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:32:02 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:32:41 --> Severity: error --> Exception: syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:34:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:34:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:35:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:35:13 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:35:48 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:35:48 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:35:48 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:35:48 --> Severity: Notice --> Trying to get property 'order_number' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\ajax\add_orderlist_dropdown.php 12
+ERROR - 2020-02-20 00:39:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:39:16 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:42:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:42:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:45:11 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 00:45:11 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:02:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:03:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:03:10 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:03:15 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:03:15 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:04:24 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:04:41 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:04:56 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:22:07 --> Severity: Notice --> Undefined property: Myaccount::$myaccount_model E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 521
+ERROR - 2020-02-20 01:22:07 --> Severity: error --> Exception: Call to a member function getProductImageById() on null E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 521
+ERROR - 2020-02-20 01:28:55 --> Severity: Notice --> Undefined property: stdClass::$user_id E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 612
+ERROR - 2020-02-20 01:28:55 --> Severity: Notice --> Trying to get property 'discount' of non-object E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 614
+ERROR - 2020-02-20 01:28:57 --> Severity: Warning --> A non-numeric value encountered E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 675
+ERROR - 2020-02-20 01:29:37 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:31:23 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:31:32 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:33:45 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 01:37:23 --> Severity: Notice --> Undefined variable: product_id E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 523
+ERROR - 2020-02-20 01:37:35 --> Severity: Notice --> Undefined variable: product_id E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 523
+ERROR - 2020-02-20 01:41:30 --> Severity: Notice --> Trying to get property 'product_id' of non-object E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 523
+ERROR - 2020-02-20 01:41:55 --> Severity: Notice --> Undefined index: product_id E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 523
+ERROR - 2020-02-20 01:44:27 --> Severity: Notice --> Array to string conversion E:\xampp\htdocs\zgc-beta\system\database\DB_query_builder.php 2442
+ERROR - 2020-02-20 01:44:27 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT `image_name`
+FROM `product_image`
+WHERE `product_id` = Array
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:50:05 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:51:50 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:56:41 --> Severity: Notice --> Undefined index: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:57:30 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 01:58:15 --> Severity: Notice --> Trying to get property 'image_name' of non-object E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 208
+ERROR - 2020-02-20 02:10:45 --> Severity: Notice --> Undefined variable: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 195
+ERROR - 2020-02-20 02:15:50 --> Severity: Notice --> Undefined variable: image_name E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\pricesettings.php 207
+ERROR - 2020-02-20 02:25:55 --> Severity: Warning --> A non-numeric value encountered E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 679
+ERROR - 2020-02-20 02:25:55 --> Severity: Warning --> A non-numeric value encountered E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 679
+ERROR - 2020-02-20 02:25:55 --> Severity: Warning --> A non-numeric value encountered E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 679
+ERROR - 2020-02-20 02:25:55 --> Severity: Warning --> A non-numeric value encountered E:\xampp\htdocs\zgc-beta\application\controllers\Myaccount.php 679
+ERROR - 2020-02-20 19:05:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:05:55 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:10:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:10:12 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:11:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:11:05 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:12:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:12:08 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:13:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 19:13:26 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:45:58 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:45:59 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:46:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:46:50 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:47:49 --> 404 Page Not Found: assets
+ERROR - 2020-02-20 23:47:49 --> 404 Page Not Found: assets

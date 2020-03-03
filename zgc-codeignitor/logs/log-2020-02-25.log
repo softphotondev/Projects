@@ -1,0 +1,2 @@
+ERROR - 2020-02-25 21:38:49 --> Severity: Warning --> Use of undefined constant checked - assumed 'checked' (this will throw an Error in a future version of PHP) E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\front\payment_confirm.php 35
+ERROR - 2020-02-25 22:13:00 --> 404 Page Not Found: assets

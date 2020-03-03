@@ -1,0 +1,7 @@
+ERROR - 2020-03-02 18:48:30 --> 404 Page Not Found: js
+ERROR - 2020-03-02 18:48:30 --> 404 Page Not Found: assets
+ERROR - 2020-03-02 18:48:30 --> 404 Page Not Found: assets
+ERROR - 2020-03-02 18:48:30 --> 404 Page Not Found: assets
+ERROR - 2020-03-02 18:48:30 --> 404 Page Not Found: assets
+ERROR - 2020-03-02 23:28:35 --> Severity: error --> Exception: Call to undefined function siteemail() E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\invoicetemplate.php 87
+ERROR - 2020-03-02 23:28:40 --> Severity: error --> Exception: Call to undefined function siteemail() E:\xampp\htdocs\zgc-beta\application\views\theme\myaccount\invoicetemplate.php 87

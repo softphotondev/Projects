@@ -1,0 +1,14 @@
+{
+    "name": "ammadkhalid/py-api",
+    "require": {
+        "symfony/process": "^3.4",
+        "rmccue/requests": "^1.7",
+        "guzzlehttp/guzzle": "~6.0",
+        "twilio/sdk": "^5.34"
+    },
+    "autoload": {
+        "psr-4": {
+            "AmmadKhalid\\Cli\\": "src"
+        }
+    }
+}
